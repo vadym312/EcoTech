@@ -25,9 +25,9 @@ export default function ContactPage() {
           <div className="flex h-12 w-12 items-center justify-center rounded-full bg-primary/10">
             <Phone className="h-6 w-6 text-primary" />
           </div>
-          <h3 className="mt-6 text-base font-semibold text-gray-900">Sales</h3>
+          <h3 className="mt-6 text-base font-semibold text-gray-900">Phone</h3>
           <p className="mt-2 text-base text-gray-500">
-            +1 (555) 123-4567
+            +49 (6751) 85378-0
           </p>
         </div>
 
@@ -37,7 +37,7 @@ export default function ContactPage() {
           </div>
           <h3 className="mt-6 text-base font-semibold text-gray-900">Support</h3>
           <p className="mt-2 text-base text-gray-500">
-            support@EchoTechpro.com
+            support@medialine.ag
           </p>
         </div>
 
@@ -45,9 +45,9 @@ export default function ContactPage() {
           <div className="flex h-12 w-12 items-center justify-center rounded-full bg-primary/10">
             <MapPin className="h-6 w-6 text-primary" />
           </div>
-          <h3 className="mt-6 text-base font-semibold text-gray-900">Office</h3>
-          <p className="mt-2 text-base text-gray-500">
-            123 Tech Street, San Francisco, CA 94105
+          <h3 className="mt-6 text-base font-semibold text-gray-900">Address</h3>
+          <p className="mt-2 text-base text-gray-500 text-center">
+            Otto-Hahn-Straße 20, 85609 Aschheim, Germany
           </p>
         </div>
       </div>
