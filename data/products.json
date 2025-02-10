@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Pro Book X1",
+      "description": "Ultra-thin laptop with exceptional performance and battery life",
+      "price": 1299.99,
+      "category": "laptops",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop",
+      "features": [
+        "15.6\" 4K Display",
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "specs": {
+        "processor": "Intel Core i7-1165G7",
+        "memory": "16GB DDR4",
+        "storage": "512GB NVMe SSD",
+        "display": "15.6\" 4K UHD (3840 x 2160)",
+        "battery": "Up to 15 hours"
+      },
+      "stock": 15,
+      "rating": 4.8,
+      "reviews": 128
+    },
+    {
+      "id": "2",
+      "name": "SmartPhone Pro Max",
+      "description": "Next-generation smartphone with advanced camera system",
+      "price": 999.99,
+      "category": "smartphones",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=2080&auto=format&fit=crop",
+      "features": [
+        "6.7\" OLED Display",
+        "Triple Camera System",
+        "5G Capable",
+        "All-day Battery"
+      ],
+      "specs": {
+        "screen": "6.7\" OLED",
+        "processor": "A15 Bionic",
+        "storage": "256GB",
+        "camera": "Triple 12MP system",
+        "battery": "4500mAh"
+      },
+      "stock": 25,
+      "rating": 4.9,
+      "reviews": 256
+    },
+    {
+      "id": "3",
+      "name": "Wireless Pro Earbuds",
+      "description": "Premium wireless earbuds with active noise cancellation",
+      "price": 199.99,
+      "category": "accessories",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=2069&auto=format&fit=crop",
+      "features": [
+        "Active Noise Cancellation",
+        "30-hour Battery Life",
+        "Water Resistant",
+        "Touch Controls"
+      ],
+      "specs": {
+        "battery": "Up to 30 hours",
+        "connectivity": "Bluetooth 5.0",
+        "waterRating": "IPX4",
+        "weight": "5.4g per earbud"
+      },
+      "stock": 50,
+      "rating": 4.7,
+      "reviews": 89
+    }
+  ],
+  "categories": [
+    {
+      "id": "laptops",
+      "name": "Laptops",
+      "description": "High-performance laptops for work and play",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop"
+    },
+    {
+      "id": "smartphones",
+      "name": "Smartphones",
+      "description": "Latest smartphones with cutting-edge technology",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=2080&auto=format&fit=crop"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "description": "Essential accessories for your devices",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=2069&auto=format&fit=crop"
+    }
+  ]
+}
