@@ -21,7 +21,7 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <Monitor className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold text-gray-900">TechGear Pro</span>
+              <span className="text-xl font-bold text-gray-900">EchoTech Pro</span>
             </Link>
           </div>
           

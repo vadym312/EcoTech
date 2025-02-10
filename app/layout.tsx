@@ -9,21 +9,21 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: {
-    default: 'TechGear Pro | Premium Tech Products',
-    template: '%s | TechGear Pro'
+    default: 'EchoTech Pro | Premium Tech Products',
+    template: '%s | EchoTech Pro'
   },
-  description: 'Discover premium tech products at TechGear Pro. From cutting-edge gadgets to essential accessories, find the perfect tech for your needs.',
+  description: 'Discover premium tech products at EchoTech Pro. From cutting-edge gadgets to essential accessories, find the perfect tech for your needs.',
   openGraph: {
-    title: 'TechGear Pro | Premium Tech Products',
-    description: 'Discover premium tech products at TechGear Pro. From cutting-edge gadgets to essential accessories, find the perfect tech for your needs.',
-    url: 'https://techgearpro.com',
-    siteName: 'TechGear Pro',
+    title: 'EchoTech Pro | Premium Tech Products',
+    description: 'Discover premium tech products at EchoTech Pro. From cutting-edge gadgets to essential accessories, find the perfect tech for your needs.',
+    url: 'https://EchoTechpro.com',
+    siteName: 'EchoTech Pro',
     images: [
       {
         url: 'https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop',
         width: 1200,
         height: 630,
-        alt: 'TechGear Pro Banner'
+        alt: 'EchoTech Pro Banner'
       }
     ],
     locale: 'en_US',
@@ -41,9 +41,9 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: 'TechGear Pro | Premium Tech Products',
+    title: 'EchoTech Pro | Premium Tech Products',
     card: 'summary_large_image',
-    description: 'Discover premium tech products at TechGear Pro. From cutting-edge gadgets to essential accessories, find the perfect tech for your needs.',
+    description: 'Discover premium tech products at EchoTech Pro. From cutting-edge gadgets to essential accessories, find the perfect tech for your needs.',
     images: ['https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop'],
   },
 };

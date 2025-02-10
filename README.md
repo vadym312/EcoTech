@@ -1,4 +1,4 @@
-# TechGear Pro - Premium Tech Products
+# EchoTech Pro - Premium Tech Products
 
 A modern e-commerce platform built with Next.js, showcasing premium tech products with a focus on user experience and performance.
 
@@ -31,7 +31,7 @@ A modern e-commerce platform built with Next.js, showcasing premium tech product
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/techgear-pro.git
+   git clone https://github.com/vadym312/EchoTech.git
    ```
 
 2. Install dependencies:
@@ -50,12 +50,12 @@ A modern e-commerce platform built with Next.js, showcasing premium tech product
 
 1. Build the Docker image:
    ```bash
-   docker build -t techgear-pro .
+   docker build -t EchoTech-pro .
    ```
 
 2. Run the container:
    ```bash
-   docker run -p 3000:3000 techgear-pro
+   docker run -p 3000:3000 EchoTech-pro
    ```
 
 ## Project Structure

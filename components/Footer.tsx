@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="space-y-8">
             <Link href="/" className="flex items-center space-x-2">
               <Monitor className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold text-gray-900">TechGear Pro</span>
+              <span className="text-xl font-bold text-gray-900">EchoTech Pro</span>
             </Link>
             <p className="text-sm text-gray-500">
               Making technology accessible to everyone. Premium tech products for your everyday needs.
@@ -99,7 +99,7 @@ export default function Footer() {
         </div>
         <div className="mt-12 border-t border-gray-200 pt-8">
           <p className="text-sm text-gray-400 xl:text-center">
-            &copy; {new Date().getFullYear()} TechGear Pro. All rights reserved.
+            &copy; {new Date().getFullYear()} EchoTech Pro. All rights reserved.
           </p>
         </div>
       </div>

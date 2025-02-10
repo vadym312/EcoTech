@@ -5,7 +5,7 @@ import { Textarea } from '@/components/ui/textarea';
 
 export const metadata = {
   title: 'Contact Us',
-  description: 'Get in touch with TechGear Pro for any questions or support.',
+  description: 'Get in touch with EchoTech Pro for any questions or support.',
 };
 
 export default function ContactPage() {
@@ -37,7 +37,7 @@ export default function ContactPage() {
           </div>
           <h3 className="mt-6 text-base font-semibold text-gray-900">Support</h3>
           <p className="mt-2 text-base text-gray-500">
-            support@techgearpro.com
+            support@EchoTechpro.com
           </p>
         </div>
 
